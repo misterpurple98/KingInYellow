@@ -59,7 +59,7 @@ namespace CustomItem
             LanguageAPI.Add("YELLOWSIGN_NAME", "The Yellow Sign");
             LanguageAPI.Add("YELLOWSIGN_PICKUP", "Chance to turn an enemy into an ally");
             LanguageAPI.Add("YELLOWSIGN_DESC",
-                "Gain a <style=cIsUtility>2%</style> <style=cStack>(+1% per stack)</style> chance to <style=cIsUtility>convert</style> an enemy into an ally.\nGives them the gift of the <style=cShrine>Yellow King.</style>");
+                "Gain a <style=cIsUtility>0.5%</style> <style=cStack>(+0.5% per stack)</style> chance to <style=cIsUtility>convert</style> an enemy into an ally.\nGives them the <style=cIsUtility>boon</style> of the <style=cShrine>Yellow King.</style>");
             LanguageAPI.Add("YELLOWSIGN_LORE",
                 "Good morning USA I got a feeling that it's gonna be a wonderful day The sun in the sky has a smile on his face And he's shining a salute to the American race");
         }
